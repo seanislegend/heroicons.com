@@ -666,10 +666,10 @@ function IconsContainer() {
         <p>
           If you have a request for an icon you can{' '}
           <a
-            href={`https://github.com/tailwindlabs/heroicons/issues/new?title=${query}+icon&labels=icon+request`}
+            href="https://github.com/tailwindlabs/heroicons/discussions/new?category=ideas"
             className="text-purple-600 border-b-2 border-purple-100 hover:bg-purple-50 transition-colors duration-150"
           >
-            open a new GitHub issue
+            start a new GitHub discussion
           </a>
           .
         </p>
