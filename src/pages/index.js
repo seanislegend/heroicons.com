@@ -664,12 +664,12 @@ function IconsContainer() {
           Sorry! There are no icons for “{query}”.
         </p>
         <p>
-          If you have a request for an icon you can{' '}
+          If you can’t find what you’re looking for,{' '}
           <a
             href="https://github.com/tailwindlabs/heroicons/discussions/new?category=ideas"
             className="text-purple-600 border-b-2 border-purple-100 hover:bg-purple-50 transition-colors duration-150"
           >
-            start a new GitHub discussion
+            make a suggestion on GitHub
           </a>
           .
         </p>
