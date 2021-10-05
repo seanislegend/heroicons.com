@@ -432,7 +432,7 @@ function Header({ version }) {
                 </div>
                 <div>MIT Licensed</div>
               </div>
-              <div className="flex items-center mx-3 sm:mx-4 xl:mx-0 mt-3">
+              <a className="flex items-center mx-3 sm:mx-4 xl:mx-0 mt-3" href="https://github.com/tailwindlabs/heroicons#react">
                 <div className="mr-2">
                   <svg
                     width="20"
@@ -449,7 +449,7 @@ function Header({ version }) {
                   </svg>
                 </div>
                 <div>React + Vue Libraries</div>
-              </div>
+              </a>
             </div>
           </div>
           <div className="w-full sm:w-auto flex-none flex flex-col-reverse sm:flex-row sm:items-start space-y-3 space-y-reverse sm:space-y-0 sm:space-x-4 mt-10 mx-auto xl:mx-0">
