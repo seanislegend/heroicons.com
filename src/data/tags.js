@@ -117,7 +117,7 @@ export default {
   sparkles: ['stars', 'glitter'],
   speakerphone: ['megaphone'],
   sun: ['day', 'brightness', 'light'],
-  support: ['help'],
+  support: ['help', 'life-ring', 'overboard'],
   'switch-horizontal': ['arrows'],
   'switch-vertical': ['arrows'],
   table: ['grid'],
