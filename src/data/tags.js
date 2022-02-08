@@ -82,7 +82,7 @@ export default {
   library: ['institution', 'building', 'administration'],
   'light-bulb': ['insight'],
   'lightning-bolt': ['electric', 'electricity', 'zap', 'power', 'flash'],
-  link: ['url', 'attachment'],
+  link: ['url', 'attachment', 'connect'],
   'location-marker': ['pin', 'map-marker'],
   login: ['enter', 'authentication'],
   logout: ['exit', 'authentication'],
