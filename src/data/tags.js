@@ -120,7 +120,7 @@ export default {
   support: ['help', 'life-ring', 'overboard'],
   'switch-horizontal': ['arrows'],
   'switch-vertical': ['arrows'],
-  table: ['grid'],
+  table: ['grid', 'data', 'spreadsheet'],
   terminal: ['console', 'cli', 'code'],
   translate: ['language', 'international', 'i18n', 'l10n', 'intl'],
   trash: ['bin', 'rubbish', 'delete', 'remove', 'garbage'],
