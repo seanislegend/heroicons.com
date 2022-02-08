@@ -99,7 +99,7 @@ export default {
   photograph: ['picture', 'image', 'gallery'],
   'plus-circle': ['add', 'create'],
   'plus-sm': ['add', 'create'],
-  plus: ['add', 'create'],
+  plus: ['add', 'create', 'new'],
   puzzle: ['jigsaw', 'piece', 'add-on', 'addon', 'game'],
   'question-mark-circle': ['help'],
   refresh: ['reload', 'restart', 'update'],
