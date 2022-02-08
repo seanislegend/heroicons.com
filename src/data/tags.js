@@ -100,7 +100,7 @@ export default {
   'plus-circle': ['add', 'create'],
   'plus-sm': ['add', 'create'],
   plus: ['add', 'create'],
-  puzzle: ['jigsaw'],
+  puzzle: ['jigsaw', 'piece', 'add-on', 'addon', 'game'],
   'question-mark-circle': ['help'],
   refresh: ['reload', 'restart', 'update'],
   reply: ['answer', 'message'],
