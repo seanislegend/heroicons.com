@@ -36,6 +36,7 @@ const iconsMedium = importIcons(require.context(`heroicons/outline/`, false, /\.
   fill: 'none',
   viewBox: '0 0 24 24',
   stroke: 'currentColor',
+  strokeWidth: 2,
 })
 const iconsSmall = importIcons(require.context(`heroicons/solid/`, false, /\.svg$/), 'sm', {
   width: 20,
