@@ -672,7 +672,7 @@ function Icon({ icon }) {
           aria-haspopup="true"
           aria-controls={icon.name}
           aria-expanded={state === 'active'}
-          className="absolute inset-0 flex cursor-auto items-center justify-center rounded-xl text-slate-900 ring-1 ring-inset ring-slate-900/[0.08]"
+          className="absolute inset-0 flex h-full w-full cursor-auto items-center justify-center rounded-xl text-slate-900 ring-1 ring-inset ring-slate-900/[0.08]"
         >
           <span
             dangerouslySetInnerHTML={{ __html: icon.svg }}
