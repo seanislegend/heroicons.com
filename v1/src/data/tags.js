@@ -1,4 +1,4 @@
-export const tags = {
+export default {
   'academic-cap': ['hat', 'school', 'university', 'graduation', 'diploma'],
   adjustments: ['filter', 'settings', 'sliders'],
   annotation: ['speech', 'bubble', 'chat', 'comment', 'response'],

@@ -1,3 +1,10 @@
 module.exports = {
-  plugins: ['tailwindcss', 'autoprefixer'],
+  plugins: {
+    tailwindcss: {},
+    'postcss-focus-visible': {
+      preserve: false,
+      replaceWith: '[data-focus-visible-added]',
+    },
+    autoprefixer: {},
+  },
 }
